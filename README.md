@@ -1,6 +1,6 @@
-## Hi, I'm Kevwe
+## Hello! 👋
 
-I'm a **cloud technology enthusiast**. I recently made a bold decision to pursue a future in **cloud technology**, and I'm documenting my journey: learning, building, and sharing my growth.
+I'm a **cloud technology enthusiast**. I recently made a bold decision to pursue a career in **cloud technology**, and I'm documenting my journey: learning, building, and sharing my growth.
 
 ---
 
@@ -24,7 +24,8 @@ I'm a **cloud technology enthusiast**. I recently made a bold decision to pursue
 
 ---
 
-## 📚 Resources I'm Using
+### 📚 Resources I'm Using
+
 - [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/) – official modules for Azure and cloud administration.  
 - [**Learn to Cloud Guide**](https://learntocloud.guide/) – a structured, community-driven cloud learning roadmap.  
 - [**Linux Foundation Training**](https://trainingportal.linuxfoundation.org/learn/course/introduction-to-linux-lfs101/course-introduction/course-information) – *Introduction to Linux (LFS101)*.  
@@ -32,7 +33,7 @@ I'm a **cloud technology enthusiast**. I recently made a bold decision to pursue
 
 ---
 
-## 💡 What I'm Building
+### 💡 What I'm Building
 This space will grow as I do.
 
 ---
