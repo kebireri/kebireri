@@ -1,28 +1,26 @@
-# 👋 Hi, I'm Kevwe
+## Hi, I'm Kevwe
 
-I'm a **cloud and solutions architecture enthusiast** with a multidisciplinary background in **strategy, sustainable development, and innovation**.  
-
-On **October 3, 2025**, I made a bold decision to pursue a future in **cloud technology**, and I'm documenting my journey — learning, building, and sharing my growth.
+I'm a **cloud technology enthusiast**. I recently made a bold decision to pursue a future in **cloud technology**, and I'm documenting my journey: learning, building, and sharing my growth.
 
 ---
 
 ## 🧠 Learning Journey
 
 ### ✅ What I've Learned
-- ☁️ **Cloud fundamentals:** understanding how cloud computing works — shared responsibility, scalability, global infrastructure, pricing models, and core Azure services.  
-- 🧩 **Azure basics:** managing resources, regions, and deployment models via the Portal and CLI.  
-- 🔐 **Identity & access:** using Azure AD and RBAC to secure and organize resources.  
+☁️ **Cloud fundamentals:** understanding how cloud computing works including shared responsibility, scalability, global infrastructure, pricing models, and core Azure services.  
+🧩 **Azure basics:** managing resources, regions, and deployment models via the Portal and CLI.  
+🔐 **Identity & access:** using Azure AD and RBAC to secure and organize resources.  
 
 ### 🚀 What I'm Learning
-- ⚙️ **Cloud operations:** configuring and managing Azure compute, storage, and networking.  
-- 🧭 **Governance & cost:** using policies, tagging, and budgeting to ensure compliance and efficiency.  
-- 🐧 **Automation & scripting:** PowerShell, Bash, and Linux fundamentals.  
-- 💡 **Infrastructure as Code (IaC):** deploying with **ARM templates** and **Bicep**.  
+⚙️ **Cloud operations:** configuring and managing Azure compute, storage, and networking.  
+🧭 **Governance & cost:** using policies, tagging, and budgeting to ensure compliance and efficiency.  
+🐧 **Automation & scripting:** PowerShell, Bash, and Linux fundamentals.  
+💡 **Infrastructure as Code (IaC):** deploying with **ARM templates** and **Bicep**.  
 
 ### 🌱 What’s Next
-- 🧠 **Solution design:** planning secure, scalable, and resilient Azure architectures.  
-- 🚀 **DevOps practices:** implementing CI/CD with GitHub Actions and Azure DevOps.  
-- 🔍 **Monitoring & optimization:** using Azure Monitor and Log Analytics to ensure performance and reliability.  
+- **Solution design:** planning secure, scalable, and resilient Azure architectures.  
+- **DevOps practices:** implementing CI/CD with GitHub Actions and Azure DevOps.  
+- **Monitoring & optimization:** using Azure Monitor and Log Analytics to ensure performance and reliability.  
 
 ---
 
@@ -40,5 +38,5 @@ This space will grow as I do.
 ---
 
 ## 🌍 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/kevwe-ebireri)  
-- 📧 kevwe.ebireri@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/kevwe-ebireri)  
+📧 kevwe.ebireri@gmail.com  
