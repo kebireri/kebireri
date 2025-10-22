@@ -7,20 +7,20 @@ I'm a **cloud technology enthusiast**. I recently made a bold decision to pursue
 ## 🧠 Learning Journey
 
 ### ✅ What I've Learned
-☁️ **Cloud fundamentals:** understanding how cloud computing works including shared responsibility, scalability, global infrastructure, pricing models, and core Azure services.  
-🧩 **Azure basics:** managing resources, regions, and deployment models via the Portal and CLI.  
-🔐 **Identity & access:** using Azure AD and RBAC to secure and organize resources.  
+- **Cloud fundamentals:** Understanding how cloud computing works including shared responsibility, scalability, global infrastructure, pricing models, and core Azure services.  
+- **Azure basics:** Managing resources, regions, and deployment models via the Portal and CLI.  
+- **Identity & access:** Using Azure AD and RBAC to secure and organize resources.  
 
 ### 🚀 What I'm Learning
-⚙️ **Cloud operations:** configuring and managing Azure compute, storage, and networking.  
-🧭 **Governance & cost:** using policies, tagging, and budgeting to ensure compliance and efficiency.  
-🐧 **Automation & scripting:** PowerShell, Bash, and Linux fundamentals.  
-💡 **Infrastructure as Code (IaC):** deploying with **ARM templates** and **Bicep**.  
+- **Cloud operations:** Configuring and managing Azure compute, storage, and networking.  
+- **Governance & cost:** Using policies, tagging, and budgeting to ensure compliance and efficiency.  
+- **Automation & scripting:** PowerShell, Bash, and Linux fundamentals.  
+- **Infrastructure as Code (IaC):** deploying with **ARM templates** and **Bicep**.  
 
 ### 🌱 What’s Next
-- **Solution design:** planning secure, scalable, and resilient Azure architectures.  
-- **DevOps practices:** implementing CI/CD with GitHub Actions and Azure DevOps.  
-- **Monitoring & optimization:** using Azure Monitor and Log Analytics to ensure performance and reliability.  
+- **Solution design:** Planning secure, scalable, and resilient Azure architectures.  
+- **DevOps practices:** Implementing CI/CD with GitHub Actions and Azure DevOps.  
+- **Monitoring & optimization:** Using Azure Monitor and Log Analytics to ensure performance and reliability.  
 
 ---
 
