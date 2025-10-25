@@ -35,7 +35,7 @@ I'm a **technology enthusiast** with expertise in leveraging technology for sust
 
 ### ✍️ Blog Posts/ Publications
 
-- [Three Weeks into the Cloud: From Curiosity to Commitment](https://medium.com/@kevwe.ebireri/three-weeks-into-the-cloud-from-curiosity-to-commitment-c78a7bb80529)
+- [My Journey into the Cloud: From Curiosity to Commitment](https://medium.com/@kevwe.ebireri/three-weeks-into-the-cloud-from-curiosity-to-commitment-c78a7bb80529)
 - [Leveraging blockchain for humanitarian aid delivery](https://www-esdmphil.eng.cam.ac.uk/about-the-programme/dissertations/2023-24/oghenerukevwe-ebireri)
 
 ---
