@@ -33,11 +33,17 @@ I'm a **cloud technology enthusiast**. I recently made a bold decision to pursue
 
 ---
 
+### ✍️ Blog Posts
+
+- [Three Weeks into the Cloud: From Curiosity to Commitment](https://medium.com/@kevwe.ebireri/three-weeks-into-the-cloud-from-curiosity-to-commitment-c78a7bb80529)
+
+---
+
 ### 💡 What I'm Building
 This space will grow as I do.
 
 ---
 
 ## 🌍 Connect
-💼 [LinkedIn](https://www.linkedin.com/in/kevwe-ebireri)  
-📧 kevwe.ebireri@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/kevwe-ebireri)  📧 [Email](kevwe.ebireri@gmail.com) 
+Ⓜ️ [Medium](https://medium.com/@kevwe.ebireri)
