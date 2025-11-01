@@ -1,4 +1,4 @@
-## Hello! 👋
+## Hello!�
 
 I'm a **technology enthusiast** with expertise in leveraging technology for sustainable development. I recently started exploring **cloud technology** in depth, and I'm documenting my journey: learning, building, and sharing my growth.
 
@@ -46,4 +46,4 @@ This space will grow as I do.
 ---
 
 ## 🌍 Connect
-💼 [LinkedIn](https://www.linkedin.com/in/kevwe-ebireri)  📧 [Email](kevwe.ebireri@gmail.com) Ⓜ️ [Medium](https://medium.com/@kevwe.ebireri)
+💼 [LinkedIn](https://www.linkedin.com/in/kevwe-ebireri)  📧 [Email](mailto:kevwe.ebireri@gmail.com) Ⓜ️ [Medium](https://medium.com/@kevwe.ebireri)
