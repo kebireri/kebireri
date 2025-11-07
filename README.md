@@ -28,7 +28,9 @@ I'm a **technology enthusiast** with expertise in leveraging technology for sust
 
 - [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/) – official modules for Azure and cloud administration.  
 - [**Learn to Cloud Guide**](https://learntocloud.guide/) – a structured, community-driven cloud learning roadmap.  
-- [**Linux Foundation Training**](https://trainingportal.linuxfoundation.org/learn/course/introduction-to-linux-lfs101/course-introduction/course-information) – *Introduction to Linux (LFS101)*.  
+- [**Linux Foundation Training**](https://trainingportal.linuxfoundation.org/learn/course/introduction-to-linux-lfs101/course-introduction/course-information) – *Introduction to Linux (LFS101)*.
+- [**Online Python**](https://learn.online-python.com/) - Python tutorials
+- [HackerRank](https://www.hackerrank.com/dashboard) - Programming lessons and exercises
 - ...and more, to be updated as my journey continues.  
 
 ---
