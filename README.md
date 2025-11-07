@@ -48,4 +48,6 @@ This space will grow as I do.
 ---
 
 ## 🌍 Connect
-💼 [LinkedIn](https://www.linkedin.com/in/kevwe-ebireri)  📧 [Email](mailto:kevwe.ebireri@gmail.com) Ⓜ️ [Medium](https://medium.com/@kevwe.ebireri)
+- [LinkedIn](https://www.linkedin.com/in/kevwe-ebireri) - Lost account; currently under recovery 🤞
+- [Email](mailto:kevwe.ebireri@gmail.com) 
+- [Medium](https://medium.com/@kevwe.ebireri)
