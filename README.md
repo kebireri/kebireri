@@ -37,6 +37,7 @@ I'm a **technology enthusiast** with expertise in leveraging technology for sust
 
 ### ✍️ Blog Posts/ Publications
 
+- [Deploying a Simple Web Server on Azure: A First-Principles Cloud Infrastructure Build](https://medium.com/@kevwe.ebireri/deploying-a-simple-cloud-web-server-on-microsoft-azure-c3a790c48b40)
 - [My Journey into the Cloud: From Curiosity to Commitment](https://medium.com/@kevwe.ebireri/three-weeks-into-the-cloud-from-curiosity-to-commitment-c78a7bb80529)
 - [Leveraging blockchain for humanitarian aid delivery](https://www-esdmphil.eng.cam.ac.uk/about-the-programme/dissertations/2023-24/oghenerukevwe-ebireri)
 
