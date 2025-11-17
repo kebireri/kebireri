@@ -12,12 +12,13 @@ I’m Kevwe, and I have a background in digital innovation and sustainable devel
 
 
 ## Skills & Focus Areas
-- [**Cloud engineering:**](#) Working with compute, storage, virtual networking, secure access patterns, and identity controls.  
-- [**Infrastructure as Code:**](#) Terraform and Bicep.  
-- [**Network design and security:**](#) VNet segmentation, NSGs, Azure Bastion, and VNet peering for secure connectivity.  
-- [**Monitoring and diagnostics:**](#) Log Analytics Workspace, diagnostic settings, Azure Monitor metrics, NSG flow logs, and KQL queries.  
-- [**Automation and scripting:**](#) Python fundamentals for problem-solving and JSON handling, along with CLI workflows.  
-- [**DevOps practices:**](#) Git version control, structured repositories, documentation, and an automation-focused approach to project delivery.  
+- **Cloud engineering:** compute, storage, networking, and secure access patterns  
+- **Infrastructure as Code:** Terraform (primary) and Bicep  
+- **Network security:** subnet design, NSGs, Bastion usage, and VNet peering  
+- **Monitoring & observability:** diagnostic settings, Log Analytics, Azure Monitor, and KQL  
+- **Automation & scripting:** Python fundamentals and CLI-based workflows  
+- **DevOps practices:** Git workflows, structured repositories, and automation-driven delivery
+ 
 
 ## What I'm Learning
 - Docker + container workflows
@@ -28,10 +29,10 @@ I’m Kevwe, and I have a background in digital innovation and sustainable devel
 Here are some of the main hands-on projects demonstrating my cloud and IaC learning.
 
 - [**Secure Networking with Bastion:**](https://github.com/kebireri/secureNetworking)
-    A multi-phase Azure networking project that builds a secure hub-and-spoke architecture with NSGs, Azure Bastion access, VNet peering between VMs, and full network visibility through flow logs and traffic analytics.
+<br> A multi-phase Azure networking project that builds a secure hub-and-spoke architecture with NSGs, Azure Bastion access, VNet peering between VMs, and full network visibility through flow logs and traffic analytics.
 
 - [**Terraform Static Website Deployment:**](https://github.com/kebireri/terraform/tree/main/projects/static_website) 
-    A fully automated Terraform deployment of a static website with monitoring. It includes resource provisioning, automated content upload, diagnostic settings, and Log Analytics integration for real traffic analysis.  
+<br> A fully automated Terraform deployment of a static website with monitoring. It includes resource provisioning, automated content upload, diagnostic settings, and Log Analytics integration for real traffic analysis.  
 
     
 
@@ -39,10 +40,10 @@ Here are some of the main hands-on projects demonstrating my cloud and IaC learn
 ## 📚 Resources I'm Using
 
 - [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/) – official modules for Azure and cloud administration.    
-- [**Linux Foundation Training**](https://trainingportal.linuxfoundation.org/learn/course/introduction-to-linux-lfs101/course-introduction/course-information) – *Introduction to Linux (LFS101)*.
+- [**Linux Foundation Training**](https://trainingportal.linuxfoundation.org/learn/course/introduction-to-linux-lfs101/course-introduction/course-information) – Introduction to Linux (LFS101).
 - [**Online Python**](https://learn.online-python.com/) - Python tutorials
 - [**HackerRank**](https://www.hackerrank.com/dashboard) - Programming lessons and exercises
-
+    <br>
     ...and more, to be updated as my journey continues.  
 
 
