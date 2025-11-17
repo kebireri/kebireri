@@ -8,7 +8,6 @@ I’m Kevwe, and I have a background in digital innovation and sustainable devel
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Bicep-2C4F9B?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
@@ -58,4 +57,5 @@ Here are some of the main hands-on projects demonstrating my cloud and IaC learn
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevwe.ebireri@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kevwe.ebireri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevwe-ebireri)
-<sub>Lost account; currently under recovery 🤞</sub>
+
+<sub>Lost LinkedIn account; currently under recovery 🤞</sub>
