@@ -1,23 +1,29 @@
 ## Hello!
 
-I’m Kevwe and I have a background in digital innovation and sustainable development. I’ve expanded that foundation into cloud and DevOps engineering, gaining practical experience through real-world projects and modern infrastructure practices. As I progress, I’m documenting what I learn and build, and sharing resources others may find helpful.
+I’m Kevwe, and I have a background in digital innovation and sustainable development. I’ve expanded that foundation into cloud and DevOps engineering, gaining practical experience through real-world projects and modern infrastructure practices. As I progress, I’m documenting what I learn and build, and sharing resources others may find helpful.
+
+<br>
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-2C4F9B?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## 🧠 Learning Journey
+## Skills & Focus Areas
+- Cloud engineering: Working with compute, storage, virtual networking, secure access patterns, and identity controls.  
+- Infrastructure as Code: Terraform and Bicep.  
+- Network design and security: VNet segmentation, NSGs, Azure Bastion, and VNet peering for secure connectivity.  
+- Monitoring and diagnostics: Log Analytics Workspace, diagnostic settings, Azure Monitor metrics, NSG flow logs, and KQL queries.  
+- Automation and scripting: Python fundamentals for problem-solving and JSON handling, along with CLI workflows.  
+- DevOps practices: Git version control, structured repositories, documentation, and an automation-focused approach to project delivery.  
 
-### ✅ What I've Learned
-- **Cloud Fundamentals:** Core concepts including shared responsibility, scalability, availability, global infrastructure, and cloud pricing.  
-- **Azure Administration:** Working with compute, storage, networking, identity, resource groups, access control, and regional deployments.  
-- **Infrastructure as Code:** Deploying resources with Terraform, ARM, and Bicep. Understanding state, providers, variables, and modular patterns.  
-- **Monitoring Basics:** Using Azure Monitor, diagnostic settings, and Log Analytics for log ingestion and analysis with KQL.  
-- **CLI and Automation Foundations:** Using Bash, PowerShell, Azure CLI, Git, and common automation patterns.   
-
-### 🚀 What I'm Learning
-- **Cloud Operations:** Managing VM workloads, storage, networking, availability, cost governance, and operational controls.  
-- **DevOps Foundations:** Version control workflows, GitHub collaboration, and introductory CI/CD concepts.  
-- **Python and Scripting:** Automation basics, problem-solving, and scripting fundamentals.  
-- **Docker Fundamentals:** Container basics, image creation, and container networking.  
-
+## What I'm Learning
+- Docker + container workflows
+- Automation pipelines (CI/CD)
+- Scaling applications
 
 ## Featured Projects
 Here are some of the main hands-on projects demonstrating my cloud and IaC learning.
@@ -28,11 +34,12 @@ Here are some of the main hands-on projects demonstrating my cloud and IaC learn
 - [**Terraform Static Website Deployment:**](https://github.com/kebireri/terraform/tree/main/projects/static_website) 
     A fully automated Terraform deployment of a static website with monitoring. It includes resource provisioning, automated content upload, diagnostic settings, and Log Analytics integration for real traffic analysis.  
 
+    
+
 
 ## 📚 Resources I'm Using
 
-- [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/) – official modules for Azure and cloud administration.  
-- [**Learn to Cloud Guide**](https://learntocloud.guide/) – a structured, community-driven cloud learning roadmap.  
+- [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/) – official modules for Azure and cloud administration.    
 - [**Linux Foundation Training**](https://trainingportal.linuxfoundation.org/learn/course/introduction-to-linux-lfs101/course-introduction/course-information) – *Introduction to Linux (LFS101)*.
 - [**Online Python**](https://learn.online-python.com/) - Python tutorials
 - [**HackerRank**](https://www.hackerrank.com/dashboard) - Programming lessons and exercises
@@ -48,6 +55,7 @@ Here are some of the main hands-on projects demonstrating my cloud and IaC learn
 
 
 ## 🌍 Connect
-- [LinkedIn](https://www.linkedin.com/in/kevwe-ebireri) - Lost account; currently under recovery 🤞
-- [Email](mailto:kevwe.ebireri@gmail.com) 
-- [Medium](https://medium.com/@kevwe.ebireri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevwe.ebireri@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kevwe.ebireri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevwe-ebireri)
+<sub>Lost account; currently under recovery 🤞</sub>
