@@ -12,12 +12,12 @@ I’m Kevwe, and I have a background in digital innovation and sustainable devel
 
 
 ## Skills & Focus Areas
-- Cloud engineering: Working with compute, storage, virtual networking, secure access patterns, and identity controls.  
-- Infrastructure as Code: Terraform and Bicep.  
-- Network design and security: VNet segmentation, NSGs, Azure Bastion, and VNet peering for secure connectivity.  
-- Monitoring and diagnostics: Log Analytics Workspace, diagnostic settings, Azure Monitor metrics, NSG flow logs, and KQL queries.  
-- Automation and scripting: Python fundamentals for problem-solving and JSON handling, along with CLI workflows.  
-- DevOps practices: Git version control, structured repositories, documentation, and an automation-focused approach to project delivery.  
+- [**Cloud engineering:**](#) Working with compute, storage, virtual networking, secure access patterns, and identity controls.  
+- [**Infrastructure as Code:**](#) Terraform and Bicep.  
+- [**Network design and security:**](#) VNet segmentation, NSGs, Azure Bastion, and VNet peering for secure connectivity.  
+- [**Monitoring and diagnostics:**](#) Log Analytics Workspace, diagnostic settings, Azure Monitor metrics, NSG flow logs, and KQL queries.  
+- [**Automation and scripting:**](#) Python fundamentals for problem-solving and JSON handling, along with CLI workflows.  
+- [**DevOps practices:**](#) Git version control, structured repositories, documentation, and an automation-focused approach to project delivery.  
 
 ## What I'm Learning
 - Docker + container workflows
@@ -58,4 +58,4 @@ Here are some of the main hands-on projects demonstrating my cloud and IaC learn
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kevwe.ebireri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevwe-ebireri)
 
-<sub>Lost LinkedIn account; currently under recovery 🤞</sub>
+<sub>_Lost LinkedIn account; currently under recovery_ 🤞</sub>
