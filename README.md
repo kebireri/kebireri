@@ -39,10 +39,11 @@ Here are some of the main hands-on projects demonstrating my cloud and IaC learn
 
 ## 📚 Resources I'm Using
 
-- [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/) – official modules for Azure and cloud administration.    
-- [**Linux Foundation Training**](https://trainingportal.linuxfoundation.org/learn/course/introduction-to-linux-lfs101/course-introduction/course-information) – Introduction to Linux (LFS101).
-- [**Online Python**](https://learn.online-python.com/) - Python tutorials
-- [**HackerRank**](https://www.hackerrank.com/dashboard) - Programming lessons and exercises
+- [**Microsoft Learn**](https://learn.microsoft.com/en-us/training/)   
+- [**Linux Foundation Training**](https://trainingportal.linuxfoundation.org/learn/course/introduction-to-linux-lfs101/course-introduction/course-information)
+- [**A Guide to Cloud**](https://www.aguidetocloud.com/)
+- [**Online Python**](https://learn.online-python.com/)
+- [**HackerRank**](https://www.hackerrank.com/dashboard)
     <br>
     ...and more, to be updated as my journey continues.  
 
