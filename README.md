@@ -12,7 +12,7 @@ I’m Kevwe, and I have a background in digital innovation and sustainable devel
 
 
 ## Skills & Focus Areas
-- **Cloud engineering:** compute, storage, networking, and secure access patterns  
+- **Infrastructure Foundations:** compute, storage, networking, and secure access patterns  
 - **Infrastructure as Code:** Terraform (primary) and Bicep  
 - **Network security:** subnet design, NSGs, Bastion usage, and VNet peering  
 - **Monitoring & observability:** diagnostic settings, Log Analytics, Azure Monitor, and KQL  
