@@ -1,6 +1,6 @@
 ## Hello!
 
-I’m Kevwe, and I have a background in digital innovation and sustainable development. I’ve expanded that foundation into cloud and DevOps engineering, gaining practical experience through real-world projects and modern infrastructure practices. As I progress, I’m documenting what I learn and build, and sharing resources others may find helpful.
+I’m Kevwe, and I have a background in innovation, strategy and digital transformation. I’ve expanded that foundation into cloud engineering, gaining practical experience through hands-on projects and modern infrastructure practices. I’m building depth in this area because many technologies and services depend on cloud infrastructure, and understanding that layer helps strengthen other facets of my work and interests across technology, systems and innovation. As I progress, I’m documenting what I learn and build, and sharing resources others may find useful.
 
 <br>
 
@@ -50,8 +50,9 @@ Here are some of the main hands-on projects demonstrating my cloud and IaC learn
     ...and more, to be updated as my journey continues.  
 
 
-## ✍️ Blog Posts/ Publications
+## ✍️ Publications/ Writing Samples
 
+- [Technology and the Space of Possibility](https://medium.com/@kevwe.ebireri/technology-and-the-space-of-possibility-103bf0dfec69)
 - [Certifications, Experience, and Building Real Capability in Microsoft Azure](https://medium.com/@kevwe.ebireri/certifications-experience-and-building-real-capability-in-microsoft-azure-d3c69f400f59?postPublishedType=repub)
 - [Deploying a Simple Web Server on Azure: A First-Principles Cloud Infrastructure Build](https://medium.com/@kevwe.ebireri/deploying-a-simple-cloud-web-server-on-microsoft-azure-c3a790c48b40)
 - [Leveraging blockchain for humanitarian aid delivery](https://www-esdmphil.eng.cam.ac.uk/about-the-programme/dissertations/2023-24/oghenerukevwe-ebireri)
